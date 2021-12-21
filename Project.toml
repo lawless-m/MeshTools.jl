@@ -1,0 +1,16 @@
+name = "MeshTools"
+uuid = "dbb03b43-d4b3-4993-9d58-d1e621e528c1"
+authors = ["Matt Lawless"]
+version = "0.1.0"
+
+[deps]
+Meshes = "eacbb407-ea5a-433e-ab97-5258b1ca43fa"
+
+[compat]
+julia = "1"
+
+[extras]
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
+
+[targets]
+test = ["Test"]
