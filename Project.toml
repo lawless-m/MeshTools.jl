@@ -7,7 +7,7 @@ version = "0.1.0"
 Meshes = "eacbb407-ea5a-433e-ab97-5258b1ca43fa"
 
 [compat]
-Meshes = "0.19"
+Meshes = "0.19, 0.20"
 julia = "1"
 
 [extras]
